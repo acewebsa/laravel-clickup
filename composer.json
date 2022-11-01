@@ -1,6 +1,6 @@
 {
-    "name": "spinen/laravel-clickup",
-    "description": "SPINEN's Laravel Package for ClickUp.",
+    "name": "acewebsa/laravel-clickup",
+    "description": "SPINEN's Laravel Package for ClickUp. My attempt to upgrade to laravel 9",
     "keywords": [
         "clickup",
         "client",
